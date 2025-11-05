@@ -8,7 +8,7 @@ The app generates a unique language based on your parameters using a dictionary 
 
 The app comes with 2 pre-made languages, Inuevo, which is a randomly generated language with a few modifications inspired by Spanish, and Yatsk, a randomly generated language with a few modifications inspired by Russian. Feel free to use these languages in your projects if you'd like.
 
-I think it would be pretty cool if people make custom languages and share them so that new con-langs could be constructed using this app, with eventual modifications being made as time goes on! So go ahead, share your languages!
+I think it would be pretty cool if people make custom languages and share them so that new con-langs could be constructed using this app, with eventual modifications being made as time goes on! So go ahead, share your languages! [ or build on my existing ones (; ]
 
 ## How to use
 
