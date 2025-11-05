@@ -181,7 +181,7 @@ while True: # Main loop
                         unT = True
             os.system('cls')
             if unT:
-                print("One word was not found, therefore it is untranslated. If you included a name, or specific place, etc that can not be translated, disregard this alert.")
+                print("A word, or words, was not found, therefore it is untranslated. If you included a name, or specific place, etc that can not be translated, disregard this alert.")
             print(f"In English: {final}")
         else:
             os.system('cls')
