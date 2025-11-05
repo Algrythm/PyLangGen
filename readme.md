@@ -17,7 +17,7 @@ This application is designed for generating a unique language with your own para
 
 The app generates a unique language based on your parameters using a dictionary of ~61000 common English words for reference. Language structure will remain the same as English, but it will be unintelligible to anyone, because it generally shares no similarities to any other existing languages. You CAN customize the language it generates to your liking, adding words that ARE similar to existing languages for nicer flow, if you would like.
 
-The app comes with a pre-made language, Inuevo, which is a randomly generated language with a few modifications. A few words are taken from Spanish.
+The app comes with 2 pre-made languages, Inuevo, which is a randomly generated language with a few modifications inspired by Spanish, and Yatsk, a randomly generated language with a few modifications inspired by Russian.
 
 Run 'run.bat' to start the Python app. If you download another pre-made language, place it inside of the languages folder. Follow the instructions in-app to create your language.
 
