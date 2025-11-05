@@ -18,7 +18,7 @@ I think it would be pretty cool if people make custom languages and share them s
 
 Run 'run.bat' to start the Python app. If you download another pre-made language, place it inside of the languages folder. Follow the instructions in-app to create your language.
 
-*DO NOT RUN THE APP AS ADMIN. When batch files are ran as admin, they are executed within the System32 directory which this app is not intended to handle.
+*DO NOT RUN THE APP AS ADMIN. When batch files are run as admin, they are executed within the System32 directory which this app is not intended to handle.
 
 *DESIGNED FOR WINDOWS 11. I may add versatility for other windows versions later.
 
