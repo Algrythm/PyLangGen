@@ -1,5 +1,4 @@
 #Copyright 2025 Algrythm/Mars Cannon
-#Eng Dictionary from https://github.com/goldstraw/CommonEnglishDictionary
 
 import random
 import os
